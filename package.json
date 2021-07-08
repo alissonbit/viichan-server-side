@@ -1,8 +1,8 @@
 {
-  "name": "server-side",
+  "name": "viichan api",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "viichan's api",
+  "author": "alissonbit",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
